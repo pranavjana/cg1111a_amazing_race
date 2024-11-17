@@ -39,8 +39,6 @@ To run the mBot in your own environment, follow these steps:
 - **Wei Hao**: Report writing, LDR and IR circuitry, LDR casing design.
 - **Asher**: Report writing, LDR and IR circuitry, IR sensing code implementation.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 - Inspired by "The A-maze-ing Race Project 2024."
